@@ -5,7 +5,10 @@ This repository contains three small Python projects demonstrating state space s
 ## Systematic Search
 
 ![A* search visualization](images/a-star.png)
+*A* search visualization*
+
 ![Breadth-first search visualization](images/bfs.png)
+*Breadth-first search visualization*
 
 The `systematic-search` project finds a path through a maze. The available algorithms are:
 
@@ -39,6 +42,7 @@ The program prints the start position, goal position, number of expanded cells, 
 ## N-Queens
 
 ![N-Queens visualization](images/n-queens.png)
+*N-Queens visualization*
 
 The `n-queens` project uses a local search approach. It starts with a random arrangement of queens and repeatedly accepts moves that do not increase the number of threatened queens. The board is randomly restarted periodically if necessary.
 
@@ -59,6 +63,7 @@ The result window remains open until it is manually closed. Since the algorithm 
 ## Sudoku
 
 ![Sudoku visualization](images/sudoku.png)
+*Sudoku visualization*
 
 The `sudoku` project solves Sudoku using recursive backtracking. It supports square boards such as 4x4, 9x9 and 16x16, provided that the input has the appropriate format.
 
