@@ -5,7 +5,7 @@ This repository contains three small Python projects demonstrating state space s
 ## Systematic Search
 
 ![A* search visualization](images/a-star.png)
-*A* search visualization*
+<em>A* search visualization</em>
 
 ![Breadth-first search visualization](images/bfs.png)
 *Breadth-first search visualization*
